@@ -42,3 +42,5 @@ Run this to see all you ever wanted to know about this machine:
 PS> Get-ComputerInfo
 
 "
+
+Set-Location C:\side
